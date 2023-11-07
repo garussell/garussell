@@ -15,18 +15,18 @@ Check-out my [resume](https://github.com/garussell/garussell/files/13289647/AR.R
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS]([https://img.shields.io/badge/-CSS-000?&logo=css3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white))
+![Git]([https://img.shields.io/badge/-Git-000?&logo=git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white))
+![GitHub]([https://img.shields.io/badge/-GitHub-000?&logo=github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white))
+![bootstrap]([https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white))
+![CSS]([https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white))
+![CircleCi]([https://img.shields.io/badge/-CircleCI-000?&logo=circleci](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![RSpec]([https://img.shields.io/badge/-RSpec-000?&logo=rspec](https://img.shields.io/badge/-RSpec-FF3C1A?style=for-the-badge&logo=ruby&logoColor=white)https://img.shields.io/badge/-RSpec-FF3C1A?style=for-the-badge&logo=ruby&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-Your_Color_Here?style=for-the-badge&logo=miro&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Your_Color_Here?style=for-the-badge&logo=jira&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-Your_Color_Here?style=for-the-badge&logo=locust&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
-![CircleCi](https://img.shields.io/badge/-CircleCI-000?&logo=circleci)
-
-![RSpec](https://img.shields.io/badge/-RSpec-000?&logo=rspec)
-![MiniTest](https://img.shields.io/badge/-Minitest-000?&logo=minitest)
 ---
 
 
