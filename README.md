@@ -1,6 +1,9 @@
 ### Hi there :wave:
 I’m Allen Russell. I’m a software engineer with a background in public services, and music performance education, and strive to apply those skills to create software that is meaningful and intuitive.
 
+Check-out my [resume](https://github.com/garussell/garussell/files/13289625/AR.Resume.pdf) 📱 [get in touch!](https://www.linkedin.com/in/garyallenrusselljr/)
+
+
 [![Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)](https://github.com/garussell/github-readme-stats)
  ### Technologies I Use
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
