@@ -1,5 +1,5 @@
 ### Hi there :wave:
-I’m Allen Russell. I’m a software engineer with a background in public services, communication, and music, and strive to apply those skills to create software that is meaningful and intuitive.
+I’m Allen Russell. I’m a software engineer with a background in public services, and music performance education, and strive to apply those skills to create software that is meaningful and intuitive.
 
 [![Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)](https://github.com/garussell/github-readme-stats)
  ### Technologies I Use
