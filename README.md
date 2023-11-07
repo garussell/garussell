@@ -20,7 +20,6 @@ Check-out my [resume](https://github.com/garussell/garussell/files/13289647/AR.R
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white))
 ![CircleCi](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![RSpec](https://img.shields.io/badge/-RSpec-FF3C1A?style=for-the-badge&logo=ruby&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-Your_Color_Here?style=for-the-badge&logo=miro&logoColor=white)
