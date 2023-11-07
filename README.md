@@ -22,11 +22,11 @@ Check-out my [resume](https://github.com/garussell/garussell/files/13289647/AR.R
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CircleCi](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![RSpec](https://img.shields.io/badge/-RSpec-FF3C1A?style=for-the-badge&logo=ruby&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-Your_Color_Here?style=for-the-badge&logo=miro&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-E34F26?style=for-the-badge&logo=miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-Your_Color_Here?style=for-the-badge&logo=jira&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-Your_Color_Here?style=for-the-badge&logo=locust&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Your_Color_Here?style=for-the-badge&logo=redis&logoColor=white)
-![ActiveRecord](https://img.shields.io/badge/ActiveRecord-Your_Color_Here?style=for-the-badge&logo=ruby&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-%23430098.svg?style=for-the-badge&logo=locust&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23CC0000.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ActiveRecord](https://img.shields.io/badge/ActiveRecord-FF6C37?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Your_Color_Here?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
