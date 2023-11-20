@@ -5,7 +5,7 @@ Check-out my [resume](https://github.com/garussell/garussell/files/13289647/AR.R
 📱 [get in touch!](https://www.linkedin.com/in/garyallenrusselljr/)
 
 
-[![Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)](https://github.com/garussell/github-readme-stats)
+[Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)
  ### Technologies I Use
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
