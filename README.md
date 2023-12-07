@@ -5,9 +5,11 @@ I’m Allen Russell. I’m a software engineer with a background in public servi
 
 Check-out my work:
 
-📄 [resume](https://github.com/garussell/garussell/files/13537066/AR.Resume.pdf)
+📄 [Resume](https://github.com/garussell/garussell/files/13537066/AR.Resume.pdf)
 
-🌐 [portfolio](https://terminal.turing.edu/profiles/1977)
+🇹 [Terminal Portfolio](https://terminal.turing.edu/profiles/1977)
+
+🌐 [Curriculum Vitae](https://portfolio-website-5ls8.onrender.com/)
 
 
 [![Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)](https://github.com/garussell/github-readme-stats)
