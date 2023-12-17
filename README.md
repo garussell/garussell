@@ -5,7 +5,7 @@ I’m Allen Russell. I’m a software engineer with a background in public servi
 
 Check-out my work:
 
-📄 [Resume.pdf](https://github.com/garussell/garussell/files/13696313/Resume.pdf)
+📄 [Resume.pdf download](https://github.com/garussell/garussell/files/13696313/Resume.pdf)
 
 🇹 [Terminal Portfolio](https://terminal.turing.edu/profiles/1977)
 
