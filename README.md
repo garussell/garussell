@@ -7,7 +7,7 @@ Check-out my work:
 
 📄 [Gary Allen Russell Jr  Resume Design.pdf](https://github.com/garussell/garussell/files/13952177/Gary.Allen.Russell.Jr.Resume.Design.pdf)
 
-🌐 [Portfolio Website](https://arussell-portfolio.vercel.app/)
+🌐 [Portfolio Website](https://www.garyallenrusselljr.com)
 
 
 [![Allen Russell’s GitHub stats](https://github-readme-stats.vercel.app/api?username=garussell)](https://github.com/garussell/github-readme-stats)
