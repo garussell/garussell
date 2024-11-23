@@ -5,8 +5,6 @@ I’m Allen Russell. I’m a software engineer with a background in public servi
 
 Check-out my work:
 
-📄 [Gary Allen Russell Jr  Resume Design.pdf](https://github.com/garussell/garussell/files/13952177/Gary.Allen.Russell.Jr.Resume.Design.pdf)
-
 🌐 [Portfolio Website](https://www.garyallenrusselljr.com)
 
 
