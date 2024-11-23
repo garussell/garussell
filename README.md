@@ -1,7 +1,7 @@
 ### Hello! :wave:
 I’m Allen Russell. I’m a software engineer with a background in public services and music performance education, and strive to apply those skills to create software that is meaningful and intuitive.
 
-📱 [get in touch!](https://www.linkedin.com/in/garyallenrusselljr/overlay/contact-info/)
+📱 [get in touch!](https://www.linkedin.com/in/garyallenrusselljr/)
 
 Check-out my work:
 
